@@ -1,0 +1,163 @@
+method,case,unit id,impact
+AWARE 2.0 | Country | all | yearly,HK (base),background (ecoinvent),162.0262096908927
+AWARE 2.0 | Country | all | yearly,CN-GD proxy,background (ecoinvent),162.02620969089273
+IBIF | biodiversity | all pressures | overall,HK (base),U1,1.8207050217464542e-07
+IBIF | biodiversity | all pressures | overall,HK (base),U4,2.195515394376751e-08
+IBIF | biodiversity | all pressures | overall,HK (base),U5,4.416281600362853e-06
+IBIF | biodiversity | all pressures | overall,HK (base),background (ecoinvent),0.0006990393302585319
+IBIF | biodiversity | all pressures | overall,CN-GD proxy,U1,1.8207050217464547e-07
+IBIF | biodiversity | all pressures | overall,CN-GD proxy,U4,2.195515394376751e-08
+IBIF | biodiversity | all pressures | overall,CN-GD proxy,U5,4.416281600362855e-06
+IBIF | biodiversity | all pressures | overall,CN-GD proxy,background (ecoinvent),0.0006990393302585322
+IBIF | biodiversity | CO2 | overall,HK (base),U1,1.8207050217464542e-07
+IBIF | biodiversity | CO2 | overall,HK (base),U4,2.195515394376751e-08
+IBIF | biodiversity | CO2 | overall,HK (base),U5,4.416281600362853e-06
+IBIF | biodiversity | CO2 | overall,HK (base),background (ecoinvent),0.0005022534481476998
+IBIF | biodiversity | CO2 | overall,CN-GD proxy,U1,1.8207050217464547e-07
+IBIF | biodiversity | CO2 | overall,CN-GD proxy,U4,2.195515394376751e-08
+IBIF | biodiversity | CO2 | overall,CN-GD proxy,U5,4.416281600362855e-06
+IBIF | biodiversity | CO2 | overall,CN-GD proxy,background (ecoinvent),0.0005022534481476999
+IBIF | biodiversity | LU | overall,HK (base),background (ecoinvent),4.727365686876095e-05
+IBIF | biodiversity | LU | overall,CN-GD proxy,background (ecoinvent),4.727365686876096e-05
+IBIF | biodiversity | NOx | overall,HK (base),background (ecoinvent),7.864294984542445e-06
+IBIF | biodiversity | NOx | overall,CN-GD proxy,background (ecoinvent),7.864294984542447e-06
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, long term | damage",HK (base),U1,0.19413078564215358
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, long term | damage",HK (base),U4,0.023409455310392117
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, long term | damage",HK (base),background (ecoinvent),386.1274865775192
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, long term | damage",CN-GD proxy,U1,0.1941307856421536
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, long term | damage",CN-GD proxy,U4,0.023409455310392117
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, long term | damage",CN-GD proxy,background (ecoinvent),386.12748657751933
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, short term | damage",HK (base),U1,0.05518603009363577
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, short term | damage",HK (base),U4,0.006654662736575271
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, short term | damage",HK (base),background (ecoinvent),117.42040516855836
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, short term | damage",CN-GD proxy,U1,0.055186030093635784
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, short term | damage",CN-GD proxy,U4,0.006654662736575271
+"ImpactWorld+ 2.1 | Climate change, ecosystem quality, short term | damage",CN-GD proxy,background (ecoinvent),117.4204051685584
+"ImpactWorld+ 2.1 | Climate change, human health, long term | damage",HK (base),U1,2.61629524934512e-06
+"ImpactWorld+ 2.1 | Climate change, human health, long term | damage",HK (base),U4,3.1548858423327174e-07
+"ImpactWorld+ 2.1 | Climate change, human health, long term | damage",HK (base),background (ecoinvent),0.005203829497895851
+"ImpactWorld+ 2.1 | Climate change, human health, long term | damage",CN-GD proxy,U1,2.616295249345121e-06
+"ImpactWorld+ 2.1 | Climate change, human health, long term | damage",CN-GD proxy,U4,3.1548858423327174e-07
+"ImpactWorld+ 2.1 | Climate change, human health, long term | damage",CN-GD proxy,background (ecoinvent),0.005203829497895853
+"ImpactWorld+ 2.1 | Climate change, human health, short term | damage",HK (base),U1,7.43740607068582e-07
+"ImpactWorld+ 2.1 | Climate change, human health, short term | damage",HK (base),U4,8.968470634940521e-08
+"ImpactWorld+ 2.1 | Climate change, human health, short term | damage",HK (base),background (ecoinvent),0.0015824715652516864
+"ImpactWorld+ 2.1 | Climate change, human health, short term | damage",CN-GD proxy,U1,7.437406070685821e-07
+"ImpactWorld+ 2.1 | Climate change, human health, short term | damage",CN-GD proxy,U4,8.968470634940521e-08
+"ImpactWorld+ 2.1 | Climate change, human health, short term | damage",CN-GD proxy,background (ecoinvent),0.0015824715652516868
+ImpactWorld+ 2.1 | Freshwater acidification | damage,HK (base),U1,0.0066991167626505345
+ImpactWorld+ 2.1 | Freshwater acidification | damage,HK (base),U2/U3,5.9731616313063465e-05
+ImpactWorld+ 2.1 | Freshwater acidification | damage,HK (base),background (ecoinvent),3.2595911263948016
+ImpactWorld+ 2.1 | Freshwater acidification | damage,CN-GD proxy,U1,0.0023320869290616273
+ImpactWorld+ 2.1 | Freshwater acidification | damage,CN-GD proxy,U2/U3,5.9731616313063465e-05
+ImpactWorld+ 2.1 | Freshwater acidification | damage,CN-GD proxy,background (ecoinvent),3.259591126394802
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, long term | damage",HK (base),U1,7.751920663199672e-10
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, long term | damage",HK (base),U13b,29.051267109378884
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, long term | damage",HK (base),background (ecoinvent),67.23913251059628
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, long term | damage",CN-GD proxy,U1,7.751920663199673e-10
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, long term | damage",CN-GD proxy,U13b,29.051267109378887
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, long term | damage",CN-GD proxy,background (ecoinvent),67.23913251059629
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",HK (base),U1,3.723686403067171e-10
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",HK (base),U13b,0.005281318906046182
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",HK (base),U2/U3,1.0115988379675735e-06
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",HK (base),U4,4.776461380729214e-06
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",HK (base),background (ecoinvent),4.532482719774958
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",CN-GD proxy,U1,3.723686403067172e-10
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",CN-GD proxy,U13b,0.005281318906046183
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",CN-GD proxy,U2/U3,1.0115988379675735e-06
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",CN-GD proxy,U4,4.776461380729214e-06
+"ImpactWorld+ 2.1 | Freshwater ecotoxicity, short term | damage",CN-GD proxy,background (ecoinvent),4.532482719774959
+ImpactWorld+ 2.1 | Freshwater eutrophication | damage,HK (base),background (ecoinvent),0.8600201381051528
+ImpactWorld+ 2.1 | Freshwater eutrophication | damage,CN-GD proxy,background (ecoinvent),0.860020138105153
+"ImpactWorld+ 2.1 | Human toxicity cancer, long term | damage",HK (base),U1,1.357646811383947e-10
+"ImpactWorld+ 2.1 | Human toxicity cancer, long term | damage",HK (base),background (ecoinvent),6.247330481044507e-06
+"ImpactWorld+ 2.1 | Human toxicity cancer, long term | damage",CN-GD proxy,U1,1.3576468113839472e-10
+"ImpactWorld+ 2.1 | Human toxicity cancer, long term | damage",CN-GD proxy,background (ecoinvent),6.2473304810445084e-06
+"ImpactWorld+ 2.1 | Human toxicity cancer, short term | damage",HK (base),U1,3.1792785810587797e-09
+"ImpactWorld+ 2.1 | Human toxicity cancer, short term | damage",HK (base),background (ecoinvent),0.000127078261581379
+"ImpactWorld+ 2.1 | Human toxicity cancer, short term | damage",CN-GD proxy,U1,3.17927858105878e-09
+"ImpactWorld+ 2.1 | Human toxicity cancer, short term | damage",CN-GD proxy,background (ecoinvent),0.00012707826158137904
+"ImpactWorld+ 2.1 | Human toxicity non-cancer, long term | damage",HK (base),U13b,6.045168966884437e-07
+"ImpactWorld+ 2.1 | Human toxicity non-cancer, long term | damage",HK (base),background (ecoinvent),0.0001755667477988552
+"ImpactWorld+ 2.1 | Human toxicity non-cancer, long term | damage",CN-GD proxy,U13b,6.045168966884439e-07
+"ImpactWorld+ 2.1 | Human toxicity non-cancer, long term | damage",CN-GD proxy,background (ecoinvent),0.00017556674779885522
+"ImpactWorld+ 2.1 | Human toxicity non-cancer, short term | damage",HK (base),U13b,4.8963102136072495e-06
+"ImpactWorld+ 2.1 | Human toxicity non-cancer, short term | damage",HK (base),background (ecoinvent),0.00017349682038094304
+"ImpactWorld+ 2.1 | Human toxicity non-cancer, short term | damage",CN-GD proxy,U13b,4.89631021360725e-06
+"ImpactWorld+ 2.1 | Human toxicity non-cancer, short term | damage",CN-GD proxy,background (ecoinvent),0.0001734968203809431
+"ImpactWorld+ 2.1 | Ionizing radiations, ecosystem quality | damage",HK (base),background (ecoinvent),1.030193558816258e-10
+"ImpactWorld+ 2.1 | Ionizing radiations, ecosystem quality | damage",CN-GD proxy,background (ecoinvent),1.0301935588162578e-10
+"ImpactWorld+ 2.1 | Ionizing radiations, human health | damage",HK (base),background (ecoinvent),1.2949361134753102e-08
+"ImpactWorld+ 2.1 | Ionizing radiations, human health | damage",CN-GD proxy,background (ecoinvent),1.2949361134753107e-08
+"ImpactWorld+ 2.1 | Land occupation, biodiversity | damage",HK (base),background (ecoinvent),34.1382682442066
+"ImpactWorld+ 2.1 | Land occupation, biodiversity | damage",CN-GD proxy,background (ecoinvent),34.13826824420661
+"ImpactWorld+ 2.1 | Land transformation, biodiversity | damage",HK (base),background (ecoinvent),44.83777648197899
+"ImpactWorld+ 2.1 | Land transformation, biodiversity | damage",CN-GD proxy,background (ecoinvent),44.83777648197899
+"ImpactWorld+ 2.1 | Marine acidification, long term | damage",HK (base),U1,0.07096081110396436
+"ImpactWorld+ 2.1 | Marine acidification, long term | damage",HK (base),U4,0.00855688051141708
+"ImpactWorld+ 2.1 | Marine acidification, long term | damage",HK (base),background (ecoinvent),138.86161358653547
+"ImpactWorld+ 2.1 | Marine acidification, long term | damage",CN-GD proxy,U1,0.07096081110396439
+"ImpactWorld+ 2.1 | Marine acidification, long term | damage",CN-GD proxy,U4,0.00855688051141708
+"ImpactWorld+ 2.1 | Marine acidification, long term | damage",CN-GD proxy,background (ecoinvent),138.8616135865355
+"ImpactWorld+ 2.1 | Marine acidification, short term | damage",HK (base),U1,0.007702982784311922
+"ImpactWorld+ 2.1 | Marine acidification, short term | damage",HK (base),U4,0.0009288718976209332
+"ImpactWorld+ 2.1 | Marine acidification, short term | damage",HK (base),background (ecoinvent),15.073753457550898
+"ImpactWorld+ 2.1 | Marine acidification, short term | damage",CN-GD proxy,U1,0.007702982784311924
+"ImpactWorld+ 2.1 | Marine acidification, short term | damage",CN-GD proxy,U4,0.0009288718976209332
+"ImpactWorld+ 2.1 | Marine acidification, short term | damage",CN-GD proxy,background (ecoinvent),15.073753457550902
+"ImpactWorld+ 2.1 | Marine ecotoxicity, long term | damage",HK (base),U13b,9.812219171547008e-07
+"ImpactWorld+ 2.1 | Marine ecotoxicity, long term | damage",HK (base),background (ecoinvent),0.00025958370838804974
+"ImpactWorld+ 2.1 | Marine ecotoxicity, long term | damage",CN-GD proxy,U13b,9.81221917154701e-07
+"ImpactWorld+ 2.1 | Marine ecotoxicity, long term | damage",CN-GD proxy,background (ecoinvent),0.00025958370838804985
+"ImpactWorld+ 2.1 | Marine ecotoxicity, short term | damage",HK (base),U1,2.121139070307361e-18
+"ImpactWorld+ 2.1 | Marine ecotoxicity, short term | damage",HK (base),U13b,6.997338893824434e-07
+"ImpactWorld+ 2.1 | Marine ecotoxicity, short term | damage",HK (base),U2/U3,2.7477826604396263e-09
+"ImpactWorld+ 2.1 | Marine ecotoxicity, short term | damage",HK (base),background (ecoinvent),0.00011547513842323545
+"ImpactWorld+ 2.1 | Marine ecotoxicity, short term | damage",CN-GD proxy,U1,2.1211390703073615e-18
+"ImpactWorld+ 2.1 | Marine ecotoxicity, short term | damage",CN-GD proxy,U13b,6.997338893824435e-07
+"ImpactWorld+ 2.1 | Marine ecotoxicity, short term | damage",CN-GD proxy,U2/U3,2.7477826604396263e-09
+"ImpactWorld+ 2.1 | Marine ecotoxicity, short term | damage",CN-GD proxy,background (ecoinvent),0.0001154751384232355
+ImpactWorld+ 2.1 | Marine eutrophication | damage,HK (base),background (ecoinvent),1.3824597128738063
+ImpactWorld+ 2.1 | Marine eutrophication | damage,CN-GD proxy,background (ecoinvent),1.3824597128738065
+ImpactWorld+ 2.1 | Ozone layer depletion | damage,HK (base),background (ecoinvent),8.364763305012388e-08
+ImpactWorld+ 2.1 | Ozone layer depletion | damage,CN-GD proxy,background (ecoinvent),8.364763305012388e-08
+ImpactWorld+ 2.1 | Particulate matter formation | damage,HK (base),U1,1.4814080008385907e-05
+ImpactWorld+ 2.1 | Particulate matter formation | damage,HK (base),background (ecoinvent),0.0001869856651472986
+ImpactWorld+ 2.1 | Particulate matter formation | damage,CN-GD proxy,U1,1.2342401323554403e-06
+ImpactWorld+ 2.1 | Particulate matter formation | damage,CN-GD proxy,background (ecoinvent),0.00018698566514729862
+"ImpactWorld+ 2.1 | Photochemical ozone formation, ecosystem quality | damage",HK (base),U4,0.0006405310412198184
+"ImpactWorld+ 2.1 | Photochemical ozone formation, ecosystem quality | damage",HK (base),background (ecoinvent),8.199785198180232
+"ImpactWorld+ 2.1 | Photochemical ozone formation, ecosystem quality | damage",CN-GD proxy,U4,0.0006405310412198184
+"ImpactWorld+ 2.1 | Photochemical ozone formation, ecosystem quality | damage",CN-GD proxy,background (ecoinvent),8.199785198180235
+"ImpactWorld+ 2.1 | Photochemical ozone formation, human health | damage",HK (base),U4,4.149186599130522e-11
+"ImpactWorld+ 2.1 | Photochemical ozone formation, human health | damage",HK (base),background (ecoinvent),8.043802471778465e-07
+"ImpactWorld+ 2.1 | Photochemical ozone formation, human health | damage",CN-GD proxy,U4,4.149186599130522e-11
+"ImpactWorld+ 2.1 | Photochemical ozone formation, human health | damage",CN-GD proxy,background (ecoinvent),8.043802471778467e-07
+ImpactWorld+ 2.1 | Terrestrial acidification | damage,HK (base),U1,0.03589307056245024
+ImpactWorld+ 2.1 | Terrestrial acidification | damage,HK (base),U2/U3,0.0003559220719536399
+ImpactWorld+ 2.1 | Terrestrial acidification | damage,HK (base),background (ecoinvent),23.070484196200514
+ImpactWorld+ 2.1 | Terrestrial acidification | damage,CN-GD proxy,U1,0.035549045405694965
+ImpactWorld+ 2.1 | Terrestrial acidification | damage,CN-GD proxy,U2/U3,0.0003559220719536399
+ImpactWorld+ 2.1 | Terrestrial acidification | damage,CN-GD proxy,background (ecoinvent),23.07048419620052
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, long term | damage",HK (base),U1,4.675128136569519e-14
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, long term | damage",HK (base),U13b,0.03584533036628482
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, long term | damage",HK (base),background (ecoinvent),9.475191906045016
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, long term | damage",CN-GD proxy,U1,4.67512813656952e-14
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, long term | damage",CN-GD proxy,U13b,0.035845330366284824
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, long term | damage",CN-GD proxy,background (ecoinvent),9.47519190604502
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, short term | damage",HK (base),U1,7.742157606621868e-14
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, short term | damage",HK (base),U13b,0.025540286962459198
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, short term | damage",HK (base),U2/U3,0.00010029406710604635
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, short term | damage",HK (base),background (ecoinvent),4.214842552448094
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, short term | damage",CN-GD proxy,U1,7.74215760662187e-14
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, short term | damage",CN-GD proxy,U13b,0.0255402869624592
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, short term | damage",CN-GD proxy,U2/U3,0.00010029406710604635
+"ImpactWorld+ 2.1 | Terrestrial ecotoxicity, short term | damage",CN-GD proxy,background (ecoinvent),4.214842552448095
+ImpactWorld+ 2.1 | Thermally polluted water | damage,HK (base),background (ecoinvent),0.18776373554338865
+ImpactWorld+ 2.1 | Thermally polluted water | damage,CN-GD proxy,background (ecoinvent),0.18776373554338865
+"ImpactWorld+ 2.1 | Water availability, freshwater ecosystem | damage",HK (base),background (ecoinvent),0.0018887094122208604
+"ImpactWorld+ 2.1 | Water availability, freshwater ecosystem | damage",CN-GD proxy,background (ecoinvent),0.0018887094122209186
+"ImpactWorld+ 2.1 | Water availability, human health | damage",HK (base),background (ecoinvent),6.960569508347637e-05
+"ImpactWorld+ 2.1 | Water availability, human health | damage",CN-GD proxy,background (ecoinvent),6.960569508348683e-05
+"ImpactWorld+ 2.1 | Water availability, terrestrial ecosystem | damage",HK (base),background (ecoinvent),0.240321319040171
+"ImpactWorld+ 2.1 | Water availability, terrestrial ecosystem | damage",CN-GD proxy,background (ecoinvent),0.24032131904017104
